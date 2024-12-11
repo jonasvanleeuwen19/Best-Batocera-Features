@@ -1,6 +1,10 @@
-[<img src="https://img.youtube.com/vi/3Pi1wLjShkQ/maxresdefault.jpg" width="370" height="230" alt="Batocera 38 Trailer">](https://www.youtube.com/watch?v=3Pi1wLjShkQ)
-
 # Batocera: Best Functions, Add-ons, Installations, and More 🌟
+
+<img alt="Logo" align="right" src="https://github.com/user-attachments/assets/d30f00a0-71c6-4494-a6b6-2683645093ab" width="10%" />
+Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently. Batocera.linux does not require any modification on your computer. Note that you must own the games you play in order to comply with the law.
+
+## Batocera 38 Trailer (Newest version is 40)
+[<img src="https://img.youtube.com/vi/3Pi1wLjShkQ/maxresdefault.jpg" width="320" height="180" alt="Batocera 38 Trailer">](https://www.youtube.com/watch?v=3Pi1wLjShkQ)
 
 ## App Installation Guide (Using Batocera PRO) 📱
 
