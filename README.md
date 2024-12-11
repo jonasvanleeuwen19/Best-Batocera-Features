@@ -61,3 +61,5 @@ wget https://raw.githubusercontent.com/uureel/batocera.pro/main/youtubetv/yttv.s
 ```
 ---
 Licenced under GNU Licence, Forked from uureel/batocera.pro
+
+<a href='https://github.com/batocera-linux/' target='_blank'>Official Batocera GitHub</a>
