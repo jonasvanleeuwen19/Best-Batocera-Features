@@ -1,10 +1,16 @@
+![afbeelding](https://github.com/user-attachments/assets/57c2d2ed-848c-4ad6-93c2-229ba32f9b1c)
+
+
 # Batocera: Best Functions, Add-ons, Installations, and More 🌟
 
 [<img alt='video' align="left" src="https://img.youtube.com/vi/3Pi1wLjShkQ/maxresdefault.jpg" width="320" height="180" alt="Batocera 38 Trailer">](https://www.youtube.com/watch?v=3Pi1wLjShkQ)
 <img alt="Logo" align="right" src="https://github.com/user-attachments/assets/d30f00a0-71c6-4494-a6b6-2683645093ab" width="10%" />
 Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently. Batocera.linux does not require any modification on your computer. Note that you must own the games you play in order to comply with the law.
-<h2><a href='https://batocera.org/download' target='_blank'>Get Batocera</a></h2>
 
+---
+<a href="https://batocera.org/download" target="_blank">
+  <img src="https://img.shields.io/badge/Get_Batocera-%230069d9?style=for-the-badge" alt="Get Batocera" width="200" height="40" />
+</a>
 
 ## App Installation Guide (Using Batocera PRO) 📱
 
