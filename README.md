@@ -1,3 +1,5 @@
+[<img src="https://img.youtube.com/vi/3Pi1wLjShkQ/maxresdefault.jpg" width="370" height="230" alt="Batocera 38 Trailer">](https://www.youtube.com/watch?v=3Pi1wLjShkQ)
+
 # Batocera: Best Functions, Add-ons, Installations, and More 🌟
 
 ## App Installation Guide (Using Batocera PRO) 📱
