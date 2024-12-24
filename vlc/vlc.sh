@@ -9,8 +9,8 @@ APPNAME=VLC # for installer info
 appname=vlc # directory name in /userdata/system/pro/...
 AppName=vlc # App.AppImage name
 APPPATH=/userdata/system/pro/$appname/$appname.AppImage
-APPLINK=http://batocera.pro/app/$appname.AppImage
-ORIGIN=batocera.pro/app # credit & info
+APPLINK=https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage
+ORIGIN=https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/ # credit & info
 # --------------------------------------------------------------------
 # --------------------------------------------------------------------
 # --------------------------------------------------------------------
